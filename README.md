@@ -1,5 +1,7 @@
 # Google Cloud Visionator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JustinBeckwith/node-cloud-visionator.svg)](https://greenkeeper.io/)
+
 This is an example of combining Node.js, Express, Google App Engine, and the Google Cloud Vision API to do basic image detection.  
 
 ## Running the sample
